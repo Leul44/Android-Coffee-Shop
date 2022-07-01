@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/activity_americano.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/activity_latte.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/activity_mocha.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/activity_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/grid_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/Desktop/LEUL 2022/Android/Final Exam Project/Kassa (6)/Kassa/app/src/main/res/layout/maingrid.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/leul4/Downloads/Kassa/Kassa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.125" />
+        <entry key="..\:/Users/leul4/Downloads/Kassa/Kassa/app/src/main/res/drawable/badge_shape.xml" value="0.125" />
+        <entry key="..\:/Users/leul4/Downloads/Kassa/Kassa/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.125" />
+        <entry key="..\:/Users/leul4/Downloads/Kassa/Kassa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
